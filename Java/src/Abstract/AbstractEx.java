@@ -18,6 +18,7 @@ public abstract class AbstractEx {
 	public void print() {
 		System.out.println("print method of abstract class");
 	}
+	//
 
 }
 
