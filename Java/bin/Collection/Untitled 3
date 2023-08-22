@@ -1,0 +1,4 @@
+ you cannot have a constructor within an interface in Java.
+         1.You can have only public, static, final variables and, public, abstract, methods as of Java
+         2.From Java8 onwards interfaces allow default methods and static methods.
+         3.From Java9 onwards interfaces allow private and private static methods.

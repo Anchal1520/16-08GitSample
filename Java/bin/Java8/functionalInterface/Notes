@@ -1,0 +1,13 @@
+Interface: multiple inheritance is not supported in the case of class because of ambiguity.
+            However, it is supported in case of an interface because there is no ambiguity.
+            It is because its implementation is provided by the implementation class.
+         Interface fields are public, static and final by default, and the methods are public and abstract   
+            
+
+
+
+Functional Interface- An Interface that contains exactly one abstract method is known as functional interface. 
+                      It can have any number of default, static methods but can contain only one abstract method
+                      
+                      
+                      
